@@ -1,0 +1,6 @@
+sun and  earth
+sun pulls objects with gravitational pull
+direction of earth to sun .normalize direction
+intensity (pull of the sun)
+.addforce earth 
+using direction of intensity multiplied*
